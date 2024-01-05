@@ -97,3 +97,4 @@ C:\Users\Una\Desktop\git_tests\Calculator\Calculator\obj\Debug\net8.0\refint\Cal
 C:\Users\Una\Desktop\git_tests\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
 C:\Users\Una\Desktop\git_tests\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 C:\Users\Una\Desktop\git_tests\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\Una\Desktop\git_tests\Calculator\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
